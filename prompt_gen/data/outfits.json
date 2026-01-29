@@ -131,6 +131,106 @@
           "mask",
           "smartphone"
         ]
+      },
+      {
+        "name": "Pink Addiction",
+        "items": [
+          "Pink Ruffle Blouse",
+          "Pink Skirt",
+          "White Knee Socks",
+          "Platform Shoes",
+          "My Melody Plush"
+        ]
+      },
+      {
+        "name": "Dark Angel",
+        "items": [
+          "Black Lace Top",
+          "Black Frill Skirt",
+          "Fishnet Socks",
+          "Buckle Shoes",
+          "Wings"
+        ]
+      },
+      {
+        "name": "Hospital Chic",
+        "items": [
+          "Oversized Shirt",
+          "Shorts",
+          "Bandaged Leg",
+          "Slippers",
+          "Eye Patch"
+        ]
+      },
+      {
+        "name": "Bunny Girl",
+        "items": [
+          "Hoodie with Ears",
+          "Frilly Bloomers",
+          "Patterned Tights",
+          "Sneakers",
+          "Bunny Backpack"
+        ]
+      },
+      {
+        "name": "Heartbreak",
+        "items": [
+          "T-shirt with Slogan",
+          "Pleated Skirt",
+          "Loose Socks",
+          "Loafers",
+          "Fake Tears"
+        ]
+      },
+      {
+        "name": "Idol Wannabe",
+        "items": [
+          "Checkered Top",
+          "Suspender Skirt",
+          "Lace Socks",
+          "Heels",
+          "Microphone"
+        ]
+      },
+      {
+        "name": "Teddy Bear",
+        "items": [
+          "Fuzzy Sweater",
+          "Brown Skirt",
+          "Bear Tights",
+          "Boots",
+          "Bear Ears"
+        ]
+      },
+      {
+        "name": "Twin Tails",
+        "items": [
+          "Sailor Top",
+          "Ribbon Skirt",
+          "Knee Highs",
+          "Mary Janes",
+          "Hair Ribbons"
+        ]
+      },
+      {
+        "name": "Gothic Touch",
+        "items": [
+          "Cross Print Top",
+          "Tulle Skirt",
+          "Garter Socks",
+          "Platform Boots",
+          "Choker"
+        ]
+      },
+      {
+        "name": "Sweet Devil",
+        "items": [
+          "Red & Black Blouse",
+          "Leather Skirt",
+          "Striped Socks",
+          "Demon Horns",
+          "Pitchfork"
+        ]
       }
     ],
     "Lady": [
@@ -250,6 +350,86 @@
           "ankle boots",
           "tote bag"
         ]
+      },
+      {
+        "name": "Garden Party",
+        "items": [
+          "Floral Blouse",
+          "White Midi Skirt",
+          "Sheer Tights",
+          "Heels",
+          "Wide Brim Hat"
+        ]
+      },
+      {
+        "name": "Evening Date",
+        "items": [
+          "Silk Camisole",
+          "Satin Skirt",
+          "None",
+          "Stilettos",
+          "Clutch"
+        ]
+      },
+      {
+        "name": "Office Chic",
+        "items": [
+          "Blazer",
+          "Pencil Skirt",
+          "Black Tights",
+          "Pumps",
+          "Tote"
+        ]
+      },
+      {
+        "name": "Gallery Opening",
+        "items": [
+          "Structured Top",
+          "Pleated Trousers",
+          "None",
+          "Pointed Flats",
+          "Statement Earrings"
+        ]
+      },
+      {
+        "name": "Winter Elegance",
+        "items": [
+          "Wool Coat",
+          "Knit Dress",
+          "Warm Tights",
+          "Knee High Boots",
+          "Beret"
+        ]
+      },
+      {
+        "name": "Summer Romance",
+        "items": [
+          "Off-shoulder Top",
+          "Maxi Skirt",
+          "None",
+          "Wedges",
+          "Straw Bag"
+        ]
+      },
+      {
+        "name": "Classic French",
+        "items": [
+          "Striped Shirt",
+          "Capri Pants",
+          "None",
+          "Ballet Flats",
+          "Red Scarf"
+        ]
+      },
+      {
+        "name": "Vintage Glamour",
+        "items": [
+          "Polka Dot Blouse",
+          "Circle Skirt",
+          "Seamed Stockings",
+          "Peep Toe Heels",
+          "Pearl Necklace"
+        ]
       }
     ],
     "Maid": [
@@ -310,6 +490,96 @@
           "tabi",
           "zori",
           "broom"
+        ]
+      },
+      {
+        "name": "Classic French",
+        "items": [
+          "Black Dress Top",
+          "White Apron",
+          "Black Tights",
+          "Heels",
+          "Headband"
+        ]
+      },
+      {
+        "name": "Cafe Style",
+        "items": [
+          "Pastel Blouse",
+          "Short Apron Skirt",
+          "Knee Highs",
+          "Mary Janes",
+          "Tray"
+        ]
+      },
+      {
+        "name": "Battle Maid",
+        "items": [
+          "Armored Apron",
+          "Combat Skirt",
+          "Steel Greaves",
+          "Boots",
+          "Halberd"
+        ]
+      },
+      {
+        "name": "Cat Maid",
+        "items": [
+          "Paw Gloves",
+          "Tail Skirt",
+          "Paw Socks",
+          "Paw Shoes",
+          "Cat Ears"
+        ]
+      },
+      {
+        "name": "Victorian Maid",
+        "items": [
+          "Long Sleeve Dress",
+          "Long Apron",
+          "None",
+          "Button Boots",
+          "Mob Cap"
+        ]
+      },
+      {
+        "name": "Zombie Maid",
+        "items": [
+          "Torn Dress",
+          "Bloodied Apron",
+          "Ripped Tights",
+          "One Shoe",
+          "Cleaver"
+        ]
+      },
+      {
+        "name": "Witch Maid",
+        "items": [
+          "Maid Top",
+          "Starry Apron",
+          "Striped Tights",
+          "Pointy Shoes",
+          "Witch Hat"
+        ]
+      },
+      {
+        "name": "Nurse Maid",
+        "items": [
+          "Nurse Cap",
+          "White Apron",
+          "White Tights",
+          "White Shoes",
+          "Syringe"
+        ]
+      },
+      {
+        "name": "Bunny Maid",
+        "items": [
+          "Bunny Suit Top",
+          "Apron",
+          "Fishnets",
+          "Heels",
+          "Bunny Ears"
         ]
       }
     ],
@@ -412,6 +682,66 @@
           "bogu armor",
           "shinai"
         ]
+      },
+      {
+        "name": "Honor Student",
+        "items": [
+          "White Shirt",
+          "Plaid Skirt",
+          "Navy Knee Socks",
+          "Loafers",
+          "Glasses"
+        ]
+      },
+      {
+        "name": "Delinquent",
+        "items": [
+          "Long Skirt",
+          "Cropped Shirt",
+          "None",
+          "Sneakers",
+          "Bat"
+        ]
+      },
+      {
+        "name": "Summer Uniform",
+        "items": [
+          "Short Sleeve Shirt",
+          "Light Skirt",
+          "Short Socks",
+          "Shoes",
+          "Sun Hat"
+        ]
+      },
+      {
+        "name": "Gym Class",
+        "items": [
+          "PE Shirt",
+          "Gym Shorts",
+          "White Socks",
+          "Trainers",
+          "Whistle"
+        ]
+      },
+      {
+        "name": "Science Club",
+        "items": [
+          "Lab Coat",
+          "Uniform Skirt",
+          "Socks",
+          "Shoes",
+          "Goggles"
+        ]
+      },
+      {
+        "name": "Graduation",
+        "items": [
+          "Uniform with Flower",
+          "Skirt",
+          "Socks",
+          "Shoes",
+          "Diploma"
+        ]
       }
     ],
     "Gothic Lolita": [
@@ -503,6 +833,106 @@
           "layered tutu",
           "knee high boots",
           "military hat"
+        ]
+      },
+      {
+        "name": "Vampire Tea",
+        "items": [
+          "Velvet Bodice",
+          "Bat Print Skirt",
+          "Lace Tights",
+          "Bat Wing Shoes",
+          "Parasol"
+        ]
+      },
+      {
+        "name": "Doll House",
+        "items": [
+          "High Collar Blouse",
+          "Pinafore Dress",
+          "Doll Joints Tights",
+          "Doll Shoes",
+          "Bonnet"
+        ]
+      },
+      {
+        "name": "Cemetery Walk",
+        "items": [
+          "Black Capelet",
+          "Long Ruffle Skirt",
+          "None",
+          "Witch Boots",
+          "Lantern"
+        ]
+      },
+      {
+        "name": "Midnight Mass",
+        "items": [
+          "Nun-style Top",
+          "Cross Embroidery Skirt",
+          "Plain Tights",
+          "Modest Shoes",
+          "Rosary"
+        ]
+      },
+      {
+        "name": "Clockwork",
+        "items": [
+          "Steampunk Blouse",
+          "Corset Skirt",
+          "Striped Tights",
+          "Gear Boots",
+          "Goggles"
+        ]
+      },
+      {
+        "name": "Blue Rose",
+        "items": [
+          "Navy Blouse",
+          "Blue Rose Skirt",
+          "White Tights",
+          "Navy Shoes",
+          "Blue Rose Headdress"
+        ]
+      },
+      {
+        "name": "White Mourning",
+        "items": [
+          "White Lace Top",
+          "White Tiered Skirt",
+          "White Lace Tights",
+          "White Shoes",
+          "Veil"
+        ]
+      },
+      {
+        "name": "Aristocrat",
+        "items": [
+          "Tailcoat",
+          "Breeches",
+          "Long Socks",
+          "Riding Boots",
+          "Top Hat"
+        ]
+      },
+      {
+        "name": "Broken Doll",
+        "items": [
+          "Tattered Blouse",
+          "Patchwork Skirt",
+          "Mismatched Socks",
+          "Old Shoes",
+          "Bandages"
+        ]
+      },
+      {
+        "name": "Cathedral",
+        "items": [
+          "Stained Glass Print Top",
+          "High Waist Skirt",
+          "Sheer Tights",
+          "Platform Heels",
+          "Halo"
         ]
       }
     ],
@@ -636,6 +1066,146 @@
           "folding fan",
           "kinchaku bag"
         ]
+      },
+      {
+        "name": "Weekend Comfort",
+        "items": [
+          "Grey Hoodie",
+          "Denim Shorts",
+          "Ankle Socks",
+          "Sneakers",
+          "Cap"
+        ]
+      },
+      {
+        "name": "Coffee Shop",
+        "items": [
+          "Beige Cardigan",
+          "Black Jeans",
+          "None",
+          "Loafers",
+          "Tote Bag"
+        ]
+      },
+      {
+        "name": "Summer Breeze",
+        "items": [
+          "White Tank Top",
+          "Floral Skirt",
+          "None",
+          "Sandals",
+          "Sunglasses"
+        ]
+      },
+      {
+        "name": "Library Study",
+        "items": [
+          "Oversized Sweater",
+          "Leggings",
+          "Wool Socks",
+          "Slippers",
+          "Glasses"
+        ]
+      },
+      {
+        "name": "Park Picnic",
+        "items": [
+          "Gingham Top",
+          "Denim Skirt",
+          "None",
+          "Canvas Shoes",
+          "Straw Hat"
+        ]
+      },
+      {
+        "name": "Movie Night",
+        "items": [
+          "Graphic Tee",
+          "Sweatpants",
+          "None",
+          "Slides",
+          "Popcorn Bucket"
+        ]
+      },
+      {
+        "name": "Road Trip",
+        "items": [
+          "Flannel Shirt",
+          "Cargo Shorts",
+          "None",
+          "Hiking Boots",
+          "Backpack"
+        ]
+      },
+      {
+        "name": "Gardening",
+        "items": [
+          "Overalls",
+          "Striped Tee",
+          "None",
+          "Clogs",
+          "Sun Hat"
+        ]
+      },
+      {
+        "name": "Art Class",
+        "items": [
+          "Paint-splattered Smock",
+          "Black Pants",
+          "None",
+          "Old Sneakers",
+          "Beret"
+        ]
+      },
+      {
+        "name": "Music Festival",
+        "items": [
+          "Crochet Top",
+          "Cutoff Shorts",
+          "None",
+          "Gladiator Sandals",
+          "Flower Crown"
+        ]
+      },
+      {
+        "name": "Yoga Session",
+        "items": [
+          "Sports Bra",
+          "Yoga Pants",
+          "None",
+          "Barefoot",
+          "Yoga Mat"
+        ]
+      },
+      {
+        "name": "Winter Walk",
+        "items": [
+          "Puffer Jacket",
+          "Thermals",
+          "Thick Socks",
+          "Snow Boots",
+          "Scarf"
+        ]
+      },
+      {
+        "name": "Skate Park",
+        "items": [
+          "Baggy T-shirt",
+          "Cargo Pants",
+          "None",
+          "Skate Shoes",
+          "Beanie"
+        ]
+      },
+      {
+        "name": "Beach Day",
+        "items": [
+          "Bikini Top",
+          "Sarong",
+          "None",
+          "Flip Flops",
+          "Beach Bag"
+        ]
       }
     ],
     "Streetwear": [
@@ -738,6 +1308,136 @@
           "cap",
           "duffel bag"
         ]
+      },
+      {
+        "name": "Urban Ninja",
+        "items": [
+          "Techwear Hoodie",
+          "Joggers with Straps",
+          "None",
+          "High-top Sneakers",
+          "Mask"
+        ]
+      },
+      {
+        "name": "Skater Boy",
+        "items": [
+          "Thrasher Hoodie",
+          "Dickies Pants",
+          "White Socks",
+          "Vans",
+          "Snapback"
+        ]
+      },
+      {
+        "name": "Neon Nights",
+        "items": [
+          "Neon Crop Top",
+          "Reflective Pants",
+          "Net Tights",
+          "Platform Boots",
+          "Glow Sticks"
+        ]
+      },
+      {
+        "name": "Utility Core",
+        "items": [
+          "Tactical Vest",
+          "Cargo Pants",
+          "None",
+          "Combat Boots",
+          "Utility Belt"
+        ]
+      },
+      {
+        "name": "Retro Sport",
+        "items": [
+          "Vintage Windbreaker",
+          "Track Shorts",
+          "Tube Socks",
+          "Retro Trainers",
+          "Headband"
+        ]
+      },
+      {
+        "name": "Grunge Revival",
+        "items": [
+          "Distressed Flannel",
+          "Ripped Jeans",
+          "Fishnets",
+          "Doc Martens",
+          "Choker"
+        ]
+      },
+      {
+        "name": "Monochrome",
+        "items": [
+          "Black Turtleneck",
+          "Black Wide Leg Pants",
+          "Black Socks",
+          "Black Boots",
+          "Silver Chain"
+        ]
+      },
+      {
+        "name": "Denim on Denim",
+        "items": [
+          "Denim Jacket",
+          "Jeans",
+          "None",
+          "White Sneakers",
+          "Bandana"
+        ]
+      },
+      {
+        "name": "Cyber Vibes",
+        "items": [
+          "Holographic Jacket",
+          "Vinyl Skirt",
+          "None",
+          "Platform Shoes",
+          "Visor"
+        ]
+      },
+      {
+        "name": "Military Chic",
+        "items": [
+          "Camo Jacket",
+          "Cargo Skirt",
+          "None",
+          "Boots",
+          "Dog Tags"
+        ]
+      },
+      {
+        "name": "Varsity",
+        "items": [
+          "Letterman Jacket",
+          "Pleated Skirt",
+          "Knee Socks",
+          "Loafers",
+          "Backpack"
+        ]
+      },
+      {
+        "name": "Oversized Fit",
+        "items": [
+          "XXL T-shirt",
+          "Biker Shorts",
+          "None",
+          "Dad Shoes",
+          "Bucket Hat"
+        ]
+      },
+      {
+        "name": "Layered Look",
+        "items": [
+          "Hoodie under Jacket",
+          "Sweatpants",
+          "None",
+          "Sneakers",
+          "Beanie"
+        ]
       }
     ],
     "Mature": [
@@ -820,6 +1520,96 @@
           "heels",
           "carry-on suitcase"
         ]
+      },
+      {
+        "name": "Executive",
+        "items": [
+          "Silk Blouse",
+          "Tailored Trousers",
+          "None",
+          "Heels",
+          "Briefcase"
+        ]
+      },
+      {
+        "name": "Country Club",
+        "items": [
+          "Polo Shirt",
+          "Beige Slacks",
+          "None",
+          "Loafers",
+          "Sweater draped over shoulders"
+        ]
+      },
+      {
+        "name": "Wine Tasting",
+        "items": [
+          "Cashmere Sweater",
+          "Dark Jeans",
+          "None",
+          "Ankle Boots",
+          "Leather Bag"
+        ]
+      },
+      {
+        "name": "Night Out",
+        "items": [
+          "Leather Jacket",
+          "Skinny Jeans",
+          "None",
+          "Boots",
+          "Hoop Earrings"
+        ]
+      },
+      {
+        "name": "Resort Wear",
+        "items": [
+          "Tunic Top",
+          "Linen Pants",
+          "None",
+          "Sandals",
+          "Sun Hat"
+        ]
+      },
+      {
+        "name": "Winter Coat",
+        "items": [
+          "Fur Coat",
+          "Leggings",
+          "None",
+          "Tall Boots",
+          "Leather Gloves"
+        ]
+      },
+      {
+        "name": "Formal Dinner",
+        "items": [
+          "Satin Blouse",
+          "Velvet Skirt",
+          "Black Tights",
+          "Pumps",
+          "Diamond Earrings"
+        ]
+      },
+      {
+        "name": "Casual Friday",
+        "items": [
+          "Blazer",
+          "Jeans",
+          "None",
+          "Flats",
+          "Smartwatch"
+        ]
+      },
+      {
+        "name": "Opera Night",
+        "items": [
+          "Lace Bodysuit",
+          "Taffeta Skirt",
+          "None",
+          "Evening Shoes",
+          "Opera Glasses"
+        ]
       }
     ],
     "Cyberpunk": [
@@ -900,6 +1690,86 @@
           "visored helmet",
           "data jack cable",
           "glowing boots"
+        ]
+      },
+      {
+        "name": "Corporate Spy",
+        "items": [
+          "Structured Blazer",
+          "Pencil Skirt with LED",
+          "Smart Tights",
+          "Chrome Heels",
+          "Data Chip"
+        ]
+      },
+      {
+        "name": "Mechanic",
+        "items": [
+          "Grease-stained Tank",
+          "Utility Overalls",
+          "None",
+          "Mag-lock Boots",
+          "Wrench"
+        ]
+      },
+      {
+        "name": "Hacker",
+        "items": [
+          "Hoodie with glowing text",
+          "Baggy Shorts",
+          "Leg Warmers",
+          "Sneakers",
+          "Laptop Bag"
+        ]
+      },
+      {
+        "name": "Android Idol",
+        "items": [
+          "Plastic Chest Piece",
+          "Clear Plastic Skirt",
+          "Circuitry Tights",
+          "Glass Heels",
+          "Antenna"
+        ]
+      },
+      {
+        "name": "Bounty Hunter",
+        "items": [
+          "Armored Vest",
+          "Leather Pants",
+          "Knee Pads",
+          "Combat Boots",
+          "Blaster"
+        ]
+      },
+      {
+        "name": "Neon Racer",
+        "items": [
+          "Racing Jacket",
+          "Biker Shorts",
+          "None",
+          "Speed Shoes",
+          "Helmet"
+        ]
+      },
+      {
+        "name": "Bio-Hacker",
+        "items": [
+          "Lab Coat",
+          "Latex Dress",
+          "None",
+          "Rubber Boots",
+          "Syringe"
+        ]
+      },
+      {
+        "name": "Wasteland Survivor",
+        "items": [
+          "Rags Layered Top",
+          "Cargo Pants",
+          "Wrapped Legs",
+          "Dusty Boots",
+          "Gas Mask"
         ]
       }
     ],
@@ -1485,6 +2355,330 @@
         "styles": [
           "Cyberpunk"
         ]
+      },
+      {
+        "name": "striped polo shirt",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "linen button-up",
+        "styles": [
+          "Casual",
+          "Mature"
+        ]
+      },
+      {
+        "name": "oversized graphic hoodie",
+        "styles": [
+          "Streetwear",
+          "Casual"
+        ]
+      },
+      {
+        "name": "cropped tank top",
+        "styles": [
+          "Streetwear",
+          "Casual",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "chiffon blouse",
+        "styles": [
+          "Lady",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "knitted vest",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "fleece jacket",
+        "styles": [
+          "Casual"
+        ]
+      },
+      {
+        "name": "puffer coat",
+        "styles": [
+          "Streetwear",
+          "Casual"
+        ]
+      },
+      {
+        "name": "varsity jacket",
+        "styles": [
+          "Streetwear",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "kimono cardigan",
+        "styles": [
+          "Casual",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "peplum top",
+        "styles": [
+          "Lady",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "mesh bodysuit",
+        "styles": [
+          "Cyberpunk",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "velvet blazer",
+        "styles": [
+          "Mature",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "satin camisole",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "flannel shirt",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "corset top",
+        "styles": [
+          "Gothic Lolita",
+          "Lady"
+        ]
+      },
+      {
+        "name": "athletic jersey",
+        "styles": [
+          "Streetwear",
+          "Casual"
+        ]
+      },
+      {
+        "name": "shearling jacket",
+        "styles": [
+          "Casual",
+          "Mature"
+        ]
+      },
+      {
+        "name": "windbreaker",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "poncho",
+        "styles": [
+          "Casual",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "tweed jacket",
+        "styles": [
+          "Lady",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "argyle sweater",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "mock neck top",
+        "styles": [
+          "Mature",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "tie-dye tee",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "sequin top",
+        "styles": [
+          "Lady",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "wrap blouse",
+        "styles": [
+          "Lady",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "denim vest",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "track jacket",
+        "styles": [
+          "Streetwear",
+          "Casual"
+        ]
+      },
+      {
+        "name": "sleeveless hoodie",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "ribbed bodysuit",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "zip-up hoodie",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "navy blazer with gold buttons",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "beige cable knit cardigan",
+        "styles": [
+          "School Uniform",
+          "Casual",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "grey v-neck sweater",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "sailor top with red scarf",
+        "styles": [
+          "School Uniform",
+          "Cosplay"
+        ]
+      },
+      {
+        "name": "sailor top with blue scarf",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "white button-down shirt short sleeve",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "cream vest",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "gym t-shirt with name tag",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "track jacket jersey",
+        "styles": [
+          "School Uniform",
+          "Sporty",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "black gakuran jacket",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "hoodie under blazer",
+        "styles": [
+          "School Uniform",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "oversized school cardigan",
+        "styles": [
+          "School Uniform",
+          "Casual",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "polo shirt with emblem",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "double-breasted blazer",
+        "styles": [
+          "School Uniform",
+          "Mature"
+        ]
+      },
+      {
+        "name": "cropped sailor top",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
       }
     ],
     "bottom": [
@@ -1813,6 +3007,299 @@
           "Casual",
           "School Uniform"
         ]
+      },
+      {
+        "name": "pleated midi skirt",
+        "styles": [
+          "Lady",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "leather leggings",
+        "styles": [
+          "Cyberpunk",
+          "Streetwear",
+          "Mature"
+        ]
+      },
+      {
+        "name": "joggers",
+        "styles": [
+          "Streetwear",
+          "Casual"
+        ]
+      },
+      {
+        "name": "skater skirt",
+        "styles": [
+          "Casual",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "bootcut jeans",
+        "styles": [
+          "Casual",
+          "Mature"
+        ]
+      },
+      {
+        "name": "biker shorts",
+        "styles": [
+          "Streetwear",
+          "Casual"
+        ]
+      },
+      {
+        "name": "maxi skirt",
+        "styles": [
+          "Lady",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "corduroy pants",
+        "styles": [
+          "Casual",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "high-waisted shorts",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "cargo skirt",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "plaid trousers",
+        "styles": [
+          "School Uniform",
+          "Mature"
+        ]
+      },
+      {
+        "name": "mermaid skirt",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "slacks",
+        "styles": [
+          "Office Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "tiered skirt",
+        "styles": [
+          "Bohemian",
+          "Lady"
+        ]
+      },
+      {
+        "name": "vinyl pants",
+        "styles": [
+          "Cyberpunk",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "wrap skirt",
+        "styles": [
+          "Lady",
+          "Casual"
+        ]
+      },
+      {
+        "name": "bloomers",
+        "styles": [
+          "Gothic Lolita",
+          "Maid"
+        ]
+      },
+      {
+        "name": "capri pants",
+        "styles": [
+          "Casual"
+        ]
+      },
+      {
+        "name": "parachute pants",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "A-line skirt",
+        "styles": [
+          "Lady",
+          "Office Lady",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "button-front skirt",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "paperbag waist pants",
+        "styles": [
+          "Office Lady",
+          "Casual"
+        ]
+      },
+      {
+        "name": "drawstring shorts",
+        "styles": [
+          "Casual"
+        ]
+      },
+      {
+        "name": "fishtail skirt",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "overall shorts",
+        "styles": [
+          "Casual"
+        ]
+      },
+      {
+        "name": "bell-bottoms",
+        "styles": [
+          "Retro",
+          "Casual"
+        ]
+      },
+      {
+        "name": "sarong",
+        "styles": [
+          "Casual",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "hakama pants",
+        "styles": [
+          "Fantasy",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "kilt",
+        "styles": [
+          "School Uniform",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "sweatpants",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "navy pleated skirt",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "grey check skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "red plaid mini skirt",
+        "styles": [
+          "School Uniform",
+          "Punk",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "beige pleated skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "long sailor skirt",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "gym bloomers",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "navy track pants",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "burberry pattern skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "green plaid skirt",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "high-waisted suspender skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "micro mini pleated skirt",
+        "styles": [
+          "School Uniform",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "culottes uniform",
+        "styles": [
+          "School Uniform"
+        ]
       }
     ],
     "shoes": [
@@ -1924,6 +3411,135 @@
         "name": "lace-up boots",
         "styles": [
           "Gothic Lolita",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "oxfords",
+        "styles": [
+          "Mature",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "running shoes",
+        "styles": [
+          "Sporty",
+          "Casual"
+        ]
+      },
+      {
+        "name": "slippers",
+        "styles": [
+          "Casual",
+          "Home"
+        ]
+      },
+      {
+        "name": "rain boots",
+        "styles": [
+          "Casual"
+        ]
+      },
+      {
+        "name": "snow boots",
+        "styles": [
+          "Casual",
+          "Winter"
+        ]
+      },
+      {
+        "name": "stilettos",
+        "styles": [
+          "Mature",
+          "Lady"
+        ]
+      },
+      {
+        "name": "mules",
+        "styles": [
+          "Lady",
+          "Casual"
+        ]
+      },
+      {
+        "name": "clogs",
+        "styles": [
+          "Casual"
+        ]
+      },
+      {
+        "name": "gladiator sandals",
+        "styles": [
+          "Lady",
+          "Bohemian"
+        ]
+      },
+      {
+        "name": "mary janes",
+        "styles": [
+          "School Uniform",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "thigh high boots",
+        "styles": [
+          "Mature",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "hiking boots",
+        "styles": [
+          "Casual",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "espadrilles",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "brown leather loafers",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "black leather loafers",
+        "styles": [
+          "School Uniform",
+          "Formal"
+        ]
+      },
+      {
+        "name": "haruta loafers",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "uwabaki (indoor shoes)",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "white sneakers",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "enamel shoes",
+        "styles": [
+          "School Uniform",
           "Jirai Kei"
         ]
       }
@@ -2155,6 +3771,136 @@
         "styles": [
           "Jirai Kei",
           "Lady"
+        ]
+      },
+      {
+        "name": "bodycon dress",
+        "styles": [
+          "Mature",
+          "Lady",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "maxi dress",
+        "styles": [
+          "Lady",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "qipao",
+        "styles": [
+          "Traditional",
+          "Lady"
+        ]
+      },
+      {
+        "name": "evening gown",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "overall dress",
+        "styles": [
+          "Casual",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "boho dress",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "lolita dress",
+        "styles": [
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "maid uniform",
+        "styles": [
+          "Maid"
+        ]
+      },
+      {
+        "name": "yukata",
+        "styles": [
+          "Traditional",
+          "Casual"
+        ]
+      },
+      {
+        "name": "techwear jumpsuit",
+        "styles": [
+          "Cyberpunk",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "blazer dress",
+        "styles": [
+          "Office Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "sweater dress",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "denim overalls",
+        "styles": [
+          "Casual"
+        ]
+      },
+      {
+        "name": "cocktail dress",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "t-shirt dress",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "princess dress",
+        "styles": [
+          "Fantasy",
+          "Lady"
+        ]
+      },
+      {
+        "name": "kaftan",
+        "styles": [
+          "Casual",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "salwar kameez",
+        "styles": [
+          "Traditional",
+          "Casual"
+        ]
+      },
+      {
+        "name": "dungarees",
+        "styles": [
+          "Casual"
         ]
       }
     ],
@@ -2555,6 +4301,237 @@
           "Casualties",
           "Streetwear"
         ]
+      },
+      {
+        "name": "wristwatch",
+        "styles": [
+          "Office Lady",
+          "Mature",
+          "Casual"
+        ]
+      },
+      {
+        "name": "smartwatch",
+        "styles": [
+          "Cyberpunk",
+          "Sporty",
+          "Casual"
+        ]
+      },
+      {
+        "name": "pearl necklace",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "choker with bell",
+        "styles": [
+          "Maid",
+          "Gothic Lolita",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "stud earrings",
+        "styles": [
+          "Casual",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "nose ring",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "lip ring",
+        "styles": [
+          "Punk",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "navel piercing",
+        "styles": [
+          "Casual",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "friendship bracelet",
+        "styles": [
+          "Casual",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "cufflinks",
+        "styles": [
+          "Mature",
+          "Office Lady"
+        ]
+      },
+      {
+        "name": "brooch",
+        "styles": [
+          "Lady",
+          "Mature",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "hair stick",
+        "styles": [
+          "Traditional",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "barette",
+        "styles": [
+          "Lady",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "hair claw",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "headphones",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk",
+          "Casual"
+        ]
+      },
+      {
+        "name": "ear muffs",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "goggles",
+        "styles": [
+          "Cyberpunk",
+          "Steampunk",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "eyepatch",
+        "styles": [
+          "Gothic Lolita",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "fan",
+        "styles": [
+          "Traditional",
+          "Lady",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "umbrella",
+        "styles": [
+          "Lady",
+          "Casual"
+        ]
+      },
+      {
+        "name": "walking cane",
+        "styles": [
+          "Mature",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "gloves",
+        "styles": [
+          "Lady",
+          "Mature",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "armband",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk"
+        ]
+      },
+      {
+        "name": "tail",
+        "styles": [
+          "Cosplay",
+          "Fantasy"
+        ]
+      },
+      {
+        "name": "wings",
+        "styles": [
+          "Fantasy",
+          "Cosplay"
+        ]
+      },
+      {
+        "name": "mask",
+        "styles": [
+          "Cyberpunk",
+          "Traditional",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "scarf",
+        "styles": [
+          "Casual",
+          "Mature"
+        ]
+      },
+      {
+        "name": "student council armband",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "safety pin",
+        "styles": [
+          "School Uniform",
+          "Punk"
+        ]
+      },
+      {
+        "name": "bicycle key wristband",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "whistle",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "pass case",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
       }
     ],
     "legwear": [
@@ -2726,6 +4703,76 @@
           "Casual",
           "Lady"
         ]
+      },
+      {
+        "name": "knee socks",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "fishnets",
+        "styles": [
+          "Streetwear",
+          "Cyberpunk",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "thigh highs",
+        "styles": [
+          "School Uniform",
+          "Mature"
+        ]
+      },
+      {
+        "name": "leggings",
+        "styles": [
+          "Sporty",
+          "Casual"
+        ]
+      },
+      {
+        "name": "tabi socks",
+        "styles": [
+          "Traditional",
+          "Casual"
+        ]
+      },
+      {
+        "name": "navy high socks",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "white crew socks",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "slouch socks (loose socks)",
+        "styles": [
+          "School Uniform",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "black pantyhose",
+        "styles": [
+          "School Uniform",
+          "Formal"
+        ]
+      },
+      {
+        "name": "socks with logo",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
       }
     ],
     "neckwear": [
@@ -2886,6 +4933,108 @@
         "styles": [
           "Cyberpunk",
           "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "tie",
+        "styles": [
+          "Office Lady",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "bolo tie",
+        "styles": [
+          "Western",
+          "Casual"
+        ]
+      },
+      {
+        "name": "pendant",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "locket",
+        "styles": [
+          "Mature",
+          "Gothic Lolita"
+        ]
+      },
+      {
+        "name": "beads",
+        "styles": [
+          "Casual",
+          "Bohemian"
+        ]
+      },
+      {
+        "name": "collar",
+        "styles": [
+          "Gothic Lolita",
+          "Punk"
+        ]
+      },
+      {
+        "name": "infinity scarf",
+        "styles": [
+          "Casual",
+          "Mature"
+        ]
+      },
+      {
+        "name": "boa",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "dog tag",
+        "styles": [
+          "Streetwear",
+          "Military"
+        ]
+      },
+      {
+        "name": "red ribbon tie",
+        "styles": [
+          "School Uniform",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "blue ribbon tie",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "striped necktie",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "string tie",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "bolo tie school",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "loose necktie",
+        "styles": [
+          "School Uniform",
+          "Casual"
         ]
       }
     ],
@@ -3076,6 +5225,94 @@
           "Gothic Lolita",
           "Fantasy"
         ]
+      },
+      {
+        "name": "fedora",
+        "styles": [
+          "Mature",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "visor",
+        "styles": [
+          "Sporty",
+          "Casual"
+        ]
+      },
+      {
+        "name": "hijab",
+        "styles": [
+          "Traditional",
+          "Modest"
+        ]
+      },
+      {
+        "name": "crown",
+        "styles": [
+          "Fantasy",
+          "Lady"
+        ]
+      },
+      {
+        "name": "helmet",
+        "styles": [
+          "Cyberpunk",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "cowboy hat",
+        "styles": [
+          "Western",
+          "Casual"
+        ]
+      },
+      {
+        "name": "snapback",
+        "styles": [
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "headband",
+        "styles": [
+          "Sporty",
+          "Casual"
+        ]
+      },
+      {
+        "name": "santa hat",
+        "styles": [
+          "Holiday",
+          "Casual"
+        ]
+      },
+      {
+        "name": "nurse cap",
+        "styles": [
+          "Cosplay",
+          "Uniform"
+        ]
+      },
+      {
+        "name": "police cap",
+        "styles": [
+          "Cosplay",
+          "Uniform"
+        ]
+      },
+      {
+        "name": "school cap",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "helmet (bicycle commuting)",
+        "styles": [
+          "School Uniform"
+        ]
       }
     ],
     "bags": [
@@ -3232,6 +5469,159 @@
         "styles": [
           "Streetwear",
           "Casual"
+        ]
+      },
+      {
+        "name": "briefcase",
+        "styles": [
+          "Office Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "clutch",
+        "styles": [
+          "Lady",
+          "Mature"
+        ]
+      },
+      {
+        "name": "duffel bag",
+        "styles": [
+          "Sporty",
+          "Casual"
+        ]
+      },
+      {
+        "name": "messenger bag",
+        "styles": [
+          "Casual",
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "waist bag",
+        "styles": [
+          "Streetwear",
+          "Casual"
+        ]
+      },
+      {
+        "name": "suitcase",
+        "styles": [
+          "Travel",
+          "Mature"
+        ]
+      },
+      {
+        "name": "lunch box",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "ita bag",
+        "styles": [
+          "Jirai Kei",
+          "Otaku"
+        ]
+      },
+      {
+        "name": "basket",
+        "styles": [
+          "Cottagecore",
+          "Lady"
+        ]
+      },
+      {
+        "name": "drawstring bag",
+        "styles": [
+          "Casual",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "bucket bag",
+        "styles": [
+          "Lady",
+          "Casual"
+        ]
+      },
+      {
+        "name": "camera bag",
+        "styles": [
+          "Casual",
+          "Artistic"
+        ]
+      },
+      {
+        "name": "guitar case",
+        "styles": [
+          "Casual",
+          "Musician"
+        ]
+      },
+      {
+        "name": "violin case",
+        "styles": [
+          "School Uniform",
+          "Musician"
+        ]
+      },
+      {
+        "name": "shopping bag",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "satchel",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "coin purse",
+        "styles": [
+          "Casual",
+          "Lady"
+        ]
+      },
+      {
+        "name": "leather school bag (randoseru style)",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "nylon shoulder bag",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "enamel sports bag",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "sub-bag (tote)",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "brown leather satchel",
+        "styles": [
+          "School Uniform",
+          "Traditional"
         ]
       }
     ]

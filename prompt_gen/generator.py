@@ -95,8 +95,25 @@ class PromptGenerator:
         # If any item is fixed, we must use mix-and-match (simplification)
         use_set = False
         if not fixed_items and sets:
-            # 50% chance to use a set if available
-            use_set = random.random() < 0.5
+            # Calculate probability based on available sets vs available items
+            # P(use_set) = N_sets / (N_max_category + N_sets)
+            n_sets = len(sets)
+
+            # Find max category count for this style
+            max_cat_count = 0
+            for cat, items in items_data.items():
+                # Count items in this category that match the style
+                count = sum(1 for i in items if style in i.get('styles', []))
+                if count > max_cat_count:
+                    max_cat_count = count
+
+            # Default to a reasonable number if no items found for style
+            if max_cat_count == 0:
+                probability = 1.0 # Only sets available
+            else:
+                probability = n_sets / (max_cat_count + n_sets)
+
+            use_set = random.random() < probability
         
         if use_set:
             chosen_set = random.choice(sets)
