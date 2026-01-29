@@ -1,0 +1,40 @@
+{
+  "angles": [
+    "front view",
+    "side view",
+    "back view",
+    "three quarter view",
+    "from above",
+    "high angle",
+    "from below",
+    "low angle",
+    "Dutch angle",
+    "close-up",
+    "portrait",
+    "cowboy shot",
+    "full body shot",
+    "wide shot",
+    "fisheye lens"
+  ],
+  "focal_length": [
+    "24mm",
+    "35mm",
+    "50mm",
+    "85mm",
+    "100mm",
+    "135mm",
+    "200mm"
+  ],
+  "depth_of_field": [
+    "f/1.4",
+    "f/1.8",
+    "f/2.8",
+    "f/4",
+    "f/8",
+    "f/11",
+    "bokeh background",
+    "shallow depth of field",
+    "deep depth of field",
+    "sharp focus"
+  ]
+}
