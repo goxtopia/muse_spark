@@ -2572,6 +2572,113 @@
           "Casual",
           "Streetwear"
         ]
+      },
+      {
+        "name": "navy blazer with gold buttons",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "beige cable knit cardigan",
+        "styles": [
+          "School Uniform",
+          "Casual",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "grey v-neck sweater",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "sailor top with red scarf",
+        "styles": [
+          "School Uniform",
+          "Cosplay"
+        ]
+      },
+      {
+        "name": "sailor top with blue scarf",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "white button-down shirt short sleeve",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "cream vest",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "gym t-shirt with name tag",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "track jacket jersey",
+        "styles": [
+          "School Uniform",
+          "Sporty",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "black gakuran jacket",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "hoodie under blazer",
+        "styles": [
+          "School Uniform",
+          "Streetwear"
+        ]
+      },
+      {
+        "name": "oversized school cardigan",
+        "styles": [
+          "School Uniform",
+          "Casual",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "polo shirt with emblem",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "double-breasted blazer",
+        "styles": [
+          "School Uniform",
+          "Mature"
+        ]
+      },
+      {
+        "name": "cropped sailor top",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
       }
     ],
     "bottom": [
@@ -3109,6 +3216,90 @@
           "Casual",
           "Streetwear"
         ]
+      },
+      {
+        "name": "navy pleated skirt",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "grey check skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "red plaid mini skirt",
+        "styles": [
+          "School Uniform",
+          "Punk",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "beige pleated skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "long sailor skirt",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "gym bloomers",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "navy track pants",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "burberry pattern skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "green plaid skirt",
+        "styles": [
+          "School Uniform",
+          "Traditional"
+        ]
+      },
+      {
+        "name": "high-waisted suspender skirt",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "micro mini pleated skirt",
+        "styles": [
+          "School Uniform",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "culottes uniform",
+        "styles": [
+          "School Uniform"
+        ]
       }
     ],
     "shoes": [
@@ -3310,6 +3501,46 @@
         "styles": [
           "Casual",
           "Lady"
+        ]
+      },
+      {
+        "name": "brown leather loafers",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "black leather loafers",
+        "styles": [
+          "School Uniform",
+          "Formal"
+        ]
+      },
+      {
+        "name": "haruta loafers",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "uwabaki (indoor shoes)",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "white sneakers",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "enamel shoes",
+        "styles": [
+          "School Uniform",
+          "Jirai Kei"
         ]
       }
     ],
@@ -4268,6 +4499,39 @@
           "Casual",
           "Mature"
         ]
+      },
+      {
+        "name": "student council armband",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "safety pin",
+        "styles": [
+          "School Uniform",
+          "Punk"
+        ]
+      },
+      {
+        "name": "bicycle key wristband",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "whistle",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "pass case",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
       }
     ],
     "legwear": [
@@ -4473,6 +4737,40 @@
         "name": "tabi socks",
         "styles": [
           "Traditional",
+          "Casual"
+        ]
+      },
+      {
+        "name": "navy high socks",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "white crew socks",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "slouch socks (loose socks)",
+        "styles": [
+          "School Uniform",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "black pantyhose",
+        "styles": [
+          "School Uniform",
+          "Formal"
+        ]
+      },
+      {
+        "name": "socks with logo",
+        "styles": [
+          "School Uniform",
           "Casual"
         ]
       }
@@ -4698,6 +4996,45 @@
         "styles": [
           "Streetwear",
           "Military"
+        ]
+      },
+      {
+        "name": "red ribbon tie",
+        "styles": [
+          "School Uniform",
+          "Jirai Kei"
+        ]
+      },
+      {
+        "name": "blue ribbon tie",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "striped necktie",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "string tie",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "bolo tie school",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "loose necktie",
+        "styles": [
+          "School Uniform",
+          "Casual"
         ]
       }
     ],
@@ -4963,6 +5300,18 @@
         "styles": [
           "Cosplay",
           "Uniform"
+        ]
+      },
+      {
+        "name": "school cap",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "helmet (bicycle commuting)",
+        "styles": [
+          "School Uniform"
         ]
       }
     ],
@@ -5239,6 +5588,40 @@
         "styles": [
           "Casual",
           "Lady"
+        ]
+      },
+      {
+        "name": "leather school bag (randoseru style)",
+        "styles": [
+          "School Uniform"
+        ]
+      },
+      {
+        "name": "nylon shoulder bag",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "enamel sports bag",
+        "styles": [
+          "School Uniform",
+          "Sporty"
+        ]
+      },
+      {
+        "name": "sub-bag (tote)",
+        "styles": [
+          "School Uniform",
+          "Casual"
+        ]
+      },
+      {
+        "name": "brown leather satchel",
+        "styles": [
+          "School Uniform",
+          "Traditional"
         ]
       }
     ]
